@@ -11,9 +11,11 @@ root1, root2 = get_roots(a, b, c)
 
 
 How to Launch Tests (Как запустить тест):
+
 python tests.py
 
 in case of success output is the following: 
+
 В случае успешного завершения теста вы получите:
 
 python tests.py
