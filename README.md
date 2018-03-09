@@ -1,25 +1,24 @@
-﻿# Решатель квадратных уравнений
+﻿# Quadratic Equations Solver
 
-[TODO. Здесь будет описание проекта]
+Function get_roots(a, b, c) return tuple with roots of quadratic equation, if there is no valid roots function returns: None, None.
 
-# Как использовать
+# How to use
 
-[TODO. Здесь будет описание программного интерфейса: функции, их аргументы, формат ответа. Нужен пример кода демонстрирующий импорт модуля и использование функции.]
+root1, root2 = get_roots(a, b, c)
 
-# Как запустить
 
-Скрипт требует для своей работы установленного интерпретатора Python версии 3.5
 
-Запуск на Linux:
+How to Launch Tests
 
-```bash
-python tests.py # может понадобиться вызов python3 вместо python, зависит от настроек операционной системы
-```
+in case of success output is the following:
 
-Запуск на Windows происходит аналогично.
+python tests.py
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
 
-# Цели проекта
+OK
 
-Код создан в учебных целях. В рамках учебного курса по веб-разработке ― [DEVMAN.org](https://devman.org)
+Project Goals
 
-#Добавил кэйс при дискриминанте меньше нуля
+I've got it.
