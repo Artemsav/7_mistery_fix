@@ -19,9 +19,9 @@ if (isAwesome){
 }
 ```
 
-
+```python
     from quadratic_equation import get_roots
-
+```
 
 Для вывода результата задаем a,b,c, где необходимые коэффициенты:
 
