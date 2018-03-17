@@ -27,6 +27,9 @@ if (isAwesome){
 ```python
     from quadratic_equation import get_roots
 ```
+<<<<<<< HEAD
+>>>>>>> 7b0ee3ff95fe91c58f74e4f5ec5a29681e3d6394
+=======
 >>>>>>> 7b0ee3ff95fe91c58f74e4f5ec5a29681e3d6394
 
 Для вывода результата задаем a,b,c, где необходимые коэффициенты:
