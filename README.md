@@ -12,6 +12,11 @@
 # Как использовать
 Для импорта функции необходимо применить следующую команду:
 
+<<<<<<< HEAD
+    ```python
+    from quadratic_equation import get_roots
+    ```
+=======
 
 ```javascript
 if (isAwesome){
@@ -19,20 +24,24 @@ if (isAwesome){
 }
 ```
 
-
+```python
     from quadratic_equation import get_roots
-
+```
+>>>>>>> 7b0ee3ff95fe91c58f74e4f5ec5a29681e3d6394
 
 Для вывода результата задаем a,b,c, где необходимые коэффициенты:
 
+    ```python
     print (get_roots(a,b,c))
+    ```
 
 В случае успешного решения вы получите:
 
-
+    ```python
     from quadratic_equation import get_roots
     print (get_roots(2,9,5))
     <-385078, -0.64921>
+    ```
 
 -где -385078, -0.64921 соответственно root1 и root2
 
